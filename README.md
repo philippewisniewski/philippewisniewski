@@ -26,4 +26,6 @@ I am a graphic designer who enjoys diving into the world of development. My jour
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pnmwisniewski) for collaboration opportunities or to reach out - email me @ [hello@pnmwisniewski.com](mailto:hello@pnmwisniewski.com).
 
+## Portfolio 🖼️
+
 #### [work.pnmwisniewski.com](https://work.pnmwisniewski.com)
