@@ -28,4 +28,4 @@ Frontend Developer, JavaScript Developer, Web Developer, WordPress Developer, UI
 
 ### 📫 Connect
 - **Website**: 🏗 Under Construction, coming soon!!
-- **Email**: dev@philippewisniewski.com
+- **Email**: hello@philippewisniewski.com
