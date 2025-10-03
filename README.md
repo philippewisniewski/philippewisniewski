@@ -1,6 +1,6 @@
 # Hi there, I'm Philippe! 👋
 
-Frontend developer with 10+ years of design expertise and 5+ years of JavaScript development experience. My unique background in design and understanding of user experience, visual hierarchy, and interface design gives me a different perspective on development—effectively bridging code with design.
+Frontend developer with 10+ years of design expertise and 5+ years of JavaScript development experience. My background in design and understanding of user experience, visual hierarchy, and interface design gives me a different perspective on development—effectively bridging code with design.
 
 ### 💻 What I'm currently working on
 - Experimenting with and creating an **MCP** (Model Context Protocol) server with TypeScript SDK
