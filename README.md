@@ -3,11 +3,11 @@
 Frontend developer with 10+ years of design expertise and 5+ years of JavaScript development experience. My background in design and understanding of user experience, visual hierarchy, and interface design gives me a different perspective on development—effectively bridging code with design.
 
 ### 💻 What I'm currently working on
-- Experimenting with and creating an **MCP** (Model Context Protocol) server with TypeScript SDK
 - Developing headless WordPress solutions with **Eleventy (11ty)**
+- Experimenting with and creating an **MCP** (Model Context Protocol) server with TypeScript SDK
 
 ### 📚 Continuous Learning
-- Building **React-based** projects for my portfolio
+- I’m currently undertaking the Meta Full Stack Developer Course on Coursera, which covers React Basics.
 - Backend JS with Bun
 - AI and Machine Learning
 
