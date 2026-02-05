@@ -1,6 +1,6 @@
 # Hi, I'm Philippe 👋
 
-Frontend developer with 10+ years experience building for the web. I specialise in modern JavaScript, headless CMS architectures, and API integrations, bringing a design-first approach to everything I build.
+Frontend developer building for the web. I specialise in modern JavaScript, headless CMS architectures, and API integrations, bringing a design-first approach to everything I build.
 
 ## What I'm working with
 
