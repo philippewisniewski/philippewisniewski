@@ -26,7 +26,7 @@ Started in design, working on web and UX, progressed into full-stack development
 
 ---
  
-🌐 **Website: Coming Soon ** [philippewisniewski.com](https://www.philippewisniewski.com)  
+🌐 **Website:** [philippewisniewski.com](https://www.philippewisniewski.com)  
 💼 **LinkedIn:** [philippewisniewski](https://linkedin.com/in/philippewisniewski)
 
 Open to full-time frontend or full-stack opportunities.
