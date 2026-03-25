@@ -20,13 +20,9 @@ Frontend developer building for the web. I specialise in modern JavaScript, head
 
 Started in design, working on web and UX, progressed into full-stack development. I've built e-commerce platforms, headless CMS websites, interactive learning applications, and everything in between. Recently completed Meta's React Basics and Programming with JavaScript certificates.
 
-## When I'm not coding
-
-🏃 Running trails • 🧠 Learning about emerging tech • ☕ Probably drinking coffee
-
 ---
- 
-🌐 **Website:** [philippewisniewski.com](https://www.philippewisniewski.com)  
-💼 **LinkedIn:** [philippewisniewski](https://linkedin.com/in/philippewisniewski)
+🌐 [philippewisniewski.com](https://www.philippewisniewski.com)
+💼 [linkedin.com/in/philippewisniewski](https://linkedin.com/in/philippewisniewski)
 
-Open to full-time frontend or full-stack opportunities.
+Open to frontend or full-stack engineering roles —
+including remote or relocation opportunities.
