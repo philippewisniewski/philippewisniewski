@@ -1,28 +1,9 @@
-# Hi, I'm Philippe 👋
+I’m a frontend engineer based in the UK. I specialise in web development, headless CMS architecture solutions and implementing API integrations. Recently, while working on web-based projects, I have continued to develop my expertise in web technologies through furthering my knowledge of JavaScript and modern frontend frameworks.
 
-Frontend developer building for the web. I specialise in modern JavaScript, headless CMS architectures, and API integrations, bringing a design-first approach to everything I build.
+I started my career as a designer working on branding and marketing projects. Over time I moved to user experience and UI design, creating mockups and flows for websites. It was during this time that I started developing a passion for web technologies.
 
-## What I'm working with
+Since then, I've worked across a range of web projects, from leading the design and build of marketing sites to working on progressive web app strategies and mobile user experience.
 
-- **JavaScript (ES6+)** - my primary language
-- **React** - building modern frontend applications
-- **WordPress & Eleventy** - building headless CMS solutions
-- **JAMstack** - modern web architectures
+Along the way I have collaborated with cross-functional teams, managing stakeholders and delivering complete end-to-end solutions.
 
-## Currently exploring
-
-- 🤖 How AI is transforming software development (prompt engineering, LLM workflows)
-- ⚛️ React patterns and state management through hands-on projects
-- 📚 JavaScript fundamentals (currently working through Crockford's "JavaScript: The Good Parts")
-- 🛠️ Integrating tools like Claude Code into development workflows
-
-## Background
-
-Started in design, working on web and UX, progressed into full-stack development. I've built e-commerce platforms, headless CMS websites, interactive learning applications, and everything in between. Recently completed Meta's React Basics and Programming with JavaScript certificates.
-
----
-🌐 [philippewisniewski.com](https://www.philippewisniewski.com)
-💼 [linkedin.com/in/philippewisniewski](https://linkedin.com/in/philippewisniewski)
-
-Open to frontend or full-stack engineering roles —
-including remote or relocation opportunities.
+At present, I am exploring the role of AI in software engineering and how it can help my development process and experience. I have been learning about context engineering, which involves structuring exactly what information, instructions, and tools an AI model needs to efficiently perform certain tasks and automations.
