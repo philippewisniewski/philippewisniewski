@@ -6,4 +6,4 @@ Since then, I've worked across a range of web projects, from leading the design 
 
 Along the way I have collaborated with cross-functional teams, managing stakeholders and delivering complete end-to-end solutions.
 
-At present, I am exploring the role of AI in software engineering and how it can help my development process and experience. I have been learning about context engineering, which involves structuring exactly what information, instructions, and tools an AI model needs to efficiently perform certain tasks and automations.
+At present, I am exploring the role of AI in software engineering and how it can help my development process and experience. Including context engineering, which involves structuring exactly what information, instructions, and tools an AI model needs to efficiently perform certain tasks and automations.
