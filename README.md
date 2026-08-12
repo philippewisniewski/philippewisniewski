@@ -4,6 +4,6 @@
 
 Currently open to work
 
-- **Languages:** `.js`, `.ts`, `.html`, `.css`, and occasionally some `.php` 👀
+- **Languages:** `.js`, `.ts`, `.html`, `.css`, and occasionally `.php`
 - **Frameworks:** `React`, `Next`, `Eleventy`, `WordPress` and others
-- **Working on:** See below 👇 and learning swift
+- **Currently working on:** See below 👇 and learning swift 👀
